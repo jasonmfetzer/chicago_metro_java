@@ -1,0 +1,140 @@
+CTARoute [name=, stops=
+	CTAStation [name=Harlem, location=elevated, latitude 41.88706, longitude -87.80486, opened=true, wheelchair=true
+	CTAStation [name=Oak Park, location=elevated, latitude 41.886784, longitude -87.794324, opened=true, wheelchair=false
+	CTAStation [name=Ridgeland, location=elevated, latitude 41.886784, longitude -87.784628, opened=true, wheelchair=false
+	CTAStation [name=Austin, location=elevated, latitude 41.887293, longitude -87.774135, opened=true, wheelchair=false
+	CTAStation [name=Central, location=elevated, latitude 41.887389, longitude -87.76565, opened=true, wheelchair=true
+	CTAStation [name=Laramie, location=elevated, latitude 41.887163, longitude -87.754986, opened=true, wheelchair=true
+	CTAStation [name=Cicero, location=elevated, latitude 41.886519, longitude -87.744698, opened=true, wheelchair=true
+	CTAStation [name=Pulaski, location=elevated, latitude 41.885412, longitude -87.725404, opened=true, wheelchair=true
+	CTAStation [name=Conservatory-Central Park Drive, location=elevated, latitude 41.884904, longitude -87.716513, opened=true, wheelchair=true
+	CTAStation [name=Kenzie, location=elevated, latitude 41.884321, longitude -87.706155, opened=true, wheelchair=true
+	CTAStation [name=California, location=elevated, latitude 41.88422, longitude -87.696234, opened=true, wheelchair=true
+	CTAStation [name=Ashland, location=elevated, latitude 41.885268, longitude -87.666969, opened=true, wheelchair=true
+	CTAStation [name=Morgan, location=elevated, latitude 41.8856, longitude -87.6522, opened=true, wheelchair=true
+	CTAStation [name=Clinton, location=elevated, latitude 41.885678, longitude -87.641782, opened=true, wheelchair=true
+	CTAStation [name=Clark/Lake, location=elevated, latitude 41.885767, longitude -87.630885, opened=true, wheelchair=true
+	CTAStation [name=State/Lake, location=elevated, latitude 41.88574, longitude -87.627835, opened=true, wheelchair=false
+	CTAStation [name=Randolph/Wabash, location=elevated, latitude 41.884431, longitude -87.626149, opened=true, wheelchair=false
+	CTAStation [name=Adams/Wabash, location=elevated, latitude 41.884431, longitude -87.6261, opened=true, wheelchair=false
+	CTAStation [name=Roosevelt, location=elevated/subway, latitude 41.867368, longitude -87.627402, opened=true, wheelchair=true
+	CTAStation [name=Cermak-McCormick, location=elevated, latitude 41.8531548, longitude -87.626423, opened=true, wheelchair=true
+	CTAStation [name=35th-Bronzeville-IIT, location=elevated, latitude 41.831677, longitude -87.625826, opened=true, wheelchair=true
+	CTAStation [name=Indiana, location=elevated, latitude 41.821732, longitude -87.621371, opened=true, wheelchair=true
+	CTAStation [name=43rd, location=elevated, latitude 41.816462, longitude -87.619021, opened=true, wheelchair=true
+	CTAStation [name=47th, location=elevated, latitude 41.8094, longitude -87.61909, opened=true, wheelchair=true
+	CTAStation [name=51st, location=elevated, latitude 41.8022, longitude -87.61903, opened=true, wheelchair=true
+	CTAStation [name=Garfield, location=elevated, latitude 41.79454, longitude -87.61835, opened=true, wheelchair=true
+	CTAStation [name=47th, location=surface, latitude 41.810318, longitude -87.63094, opened=true, wheelchair=true
+	CTAStation [name=63rd, location=surface, latitude 41.780536, longitude -87.630952, opened=true, wheelchair=true
+	CTAStation [name=69th, location=surface, latitude 41.768367, longitude -87.625724, opened=true, wheelchair=true
+	CTAStation [name=79th, location=surface, latitude 41.750419, longitude -87.625112, opened=true, wheelchair=true
+	CTAStation [name=87th, location=surface, latitude 41.735372, longitude -87.624717, opened=true, wheelchair=true
+	CTAStation [name=95th/Dan Ryan, location=surface, latitude 41.722377, longitude -87.624342, opened=true, wheelchair=true
+	CTAStation [name=Addison, location=elevated, latitude 41.947428, longitude -87.653626, opened=true, wheelchair=true
+	CTAStation [name=Argyle, location=embankment, latitude 41.973453, longitude -87.65853, opened=true, wheelchair=false
+	CTAStation [name=Belmont, location=elevated, latitude 41.939751, longitude -87.65338, opened=true, wheelchair=true
+	CTAStation [name=Berwyn, location=embankment, latitude 41.977984, longitude -87.658668, opened=true, wheelchair=false
+	CTAStation [name=Bryn Mawr, location=embankment, latitude 41.983504, longitude -87.65884, opened=true, wheelchair=false
+	CTAStation [name=Cermak-Chinatown, location=elevated, latitude 41.853206, longitude -87.630968, opened=true, wheelchair=true
+	CTAStation [name=Chicago, location=subway, latitude 41.896671, longitude -87.628176, opened=true, wheelchair=true
+	CTAStation [name=Clark/Division, location=subway, latitude 41.90392, longitude -87.631412, opened=true, wheelchair=true
+	CTAStation [name=Fullerton, location=elevated, latitude 41.925051, longitude -87.62866, opened=true, wheelchair=true
+	CTAStation [name=Garfield, location=surface, latitude 41.79542, longitude -87.631157, opened=true, wheelchair=true
+	CTAStation [name=Grand, location=subway, latitude 41.891665, longitude -87.628021, opened=true, wheelchair=true
+	CTAStation [name=Granville, location=embankment, latitude 41.993664, longitude -87.659202, opened=true, wheelchair=true
+	CTAStation [name=Harrison, location=subway, latitude 41.874039, longitude -87.627479, opened=true, wheelchair=false
+	CTAStation [name=Howard, location=embankment, latitude 42.019063, longitude -87.672892, opened=true, wheelchair=true
+	CTAStation [name=Jackson, location=subway, latitude 41.878153, longitude -87.627596, opened=true, wheelchair=true
+	CTAStation [name=Jarvis, location=embankment, latitude 42.015876, longitude -87.669092, opened=true, wheelchair=false
+	CTAStation [name=Lake, location=subway, latitude 41.884809, longitude -87.627813, opened=true, wheelchair=true
+	CTAStation [name=Lawrence, location=embankment, latitude 41.969139, longitude -87.658493, opened=true, wheelchair=false
+	CTAStation [name=Loyola, location=embankment, latitude 42.001073, longitude -87.661061, opened=true, wheelchair=true
+	CTAStation [name=Monroe, location=subway, latitude 41.880745, longitude -87.627696, opened=true, wheelchair=false
+	CTAStation [name=Morse, location=embankment, latitude 42.008362, longitude -87.665909, opened=true, wheelchair=false
+	CTAStation [name=North/Clybourn, location=subway, latitude 41.910655, longitude -87.649177, opened=true, wheelchair=false
+	CTAStation [name=Sheridan, location=elevated, latitude 41.953775, longitude -87.654929, opened=true, wheelchair=false
+	CTAStation [name=Sox-35th, location=surface, latitude 41.831191, longitude -87.630636, opened=true, wheelchair=true
+	CTAStation [name=Thorndale, location=embankment, latitude 41.990259, longitude -87.659076, opened=true, wheelchair=false
+	CTAStation [name=Wilson, location=elevated, latitude 41.964273, longitude -87.657588, opened=true, wheelchair=false
+	CTAStation [name=O`Hare, location=underground, latitude 41.981127, longitude -87.900876, opened=true, wheelchair=true
+	CTAStation [name=Rosemont, location=elevated, latitude 41.983507, longitude -87.859388, opened=true, wheelchair=true
+	CTAStation [name=Cumberland, location=surface, latitude 41.9842246, longitude -87.838028, opened=true, wheelchair=true
+	CTAStation [name=Harlem, location=surface, latitude 41.982456, longitude -87.80705, opened=true, wheelchair=true
+	CTAStation [name=Jefferson Park, location=surface, latitude 41.970833, longitude -87.761111, opened=true, wheelchair=true
+	CTAStation [name=Montrose, location=surface, latitude 41.961539, longitude -87.743574, opened=true, wheelchair=false
+	CTAStation [name=Irving Park, location=elevated, latitude 41.952964, longitude -87.729263, opened=true, wheelchair=false
+	CTAStation [name=Addison, location=surface, latitude 41.964167, longitude -87.719167, opened=true, wheelchair=false
+	CTAStation [name=Belmont, location=subway, latitude 41.955833, longitude -87.711667, opened=true, wheelchair=false
+	CTAStation [name=Logan Square, location=subway, latitude 41.929722, longitude -87.708611, opened=true, wheelchair=true
+	CTAStation [name=California, location=elevated, latitude 41.921944, longitude -87.696944, opened=true, wheelchair=false
+	CTAStation [name=Western, location=elevated, latitude 41.916111, longitude -87.6875, opened=true, wheelchair=true
+	CTAStation [name=Damen, location=elevated, latitude 41.909722, longitude -87.6775, opened=true, wheelchair=false
+	CTAStation [name=Division, location=subway, latitude 41.903333, longitude -87.666389, opened=true, wheelchair=false
+	CTAStation [name=Chicago, location=subway, latitude 41.896111, longitude -87.655278, opened=true, wheelchair=false
+	CTAStation [name=Grand, location=subway, latitude 41.891111, longitude -87.6475, opened=true, wheelchair=false
+	CTAStation [name=Washington, location=subway, latitude 41.883164, longitude -87.62944, opened=true, wheelchair=false
+	CTAStation [name=Monroe, location=subway, latitude 41.880703, longitude -87.629378, opened=true, wheelchair=false
+	CTAStation [name=LaSalle, location=subway, latitude 41.875568, longitude -87.631722, opened=true, wheelchair=false
+	CTAStation [name=Clinton, location=subway, latitude 41.875539, longitude -87.640984, opened=true, wheelchair=false
+	CTAStation [name=UIC-Halsted, location=surface, latitude 41.875474, longitude -87.649707, opened=true, wheelchair=true
+	CTAStation [name=Racine, location=surface, latitude 41.87592, longitude -87.659458, opened=true, wheelchair=false
+	CTAStation [name=Illinois Medical District, location=surface, latitude 41.875706, longitude -87.673932, opened=true, wheelchair=true
+	CTAStation [name=Western, location=surface, latitude 41.875478, longitude -87.688436, opened=true, wheelchair=false
+	CTAStation [name=Kedzie-Homan, location=surface, latitude 41.874341, longitude -87.70604, opened=true, wheelchair=true
+	CTAStation [name=Pulaski, location=surface, latitude 41.873797, longitude -87.725663, opened=true, wheelchair=false
+	CTAStation [name=Cicero, location=surface, latitude 41.871574, longitude -87.745154, opened=true, wheelchair=false
+	CTAStation [name=Austin, location=surface, latitude 41.970851, longitude -87.776812, opened=true, wheelchair=false
+	CTAStation [name=Oak Park, location=surface, latitude 41.872108, longitude -87.791602, opened=true, wheelchair=false
+	CTAStation [name=Harlem, location=surface, latitude 41.87349, longitude -87.806961, opened=true, wheelchair=false
+	CTAStation [name=Forest Park, location=elevated, latitude 41.874257, longitude -87.817318, opened=true, wheelchair=true
+	CTAStation [name=Kimball, location=at-grade, latitude 41.967628, longitude -87.712934, opened=true, wheelchair=true
+	CTAStation [name=Kedzie, location=at-grade, latitude 41.966099, longitude -87.709426, opened=true, wheelchair=true
+	CTAStation [name=Francisco, location=at-grade, latitude 41.966155, longitude -87.702099, opened=true, wheelchair=true
+	CTAStation [name=Rockwell, location=at-grade, latitude 41.966208, longitude -87.69472, opened=true, wheelchair=true
+	CTAStation [name=Western, location=elevated, latitude 41.966259, longitude -87.688448, opened=true, wheelchair=true
+	CTAStation [name=Damen, location=elevated, latitude 41.966398, longitude -87.679004, opened=true, wheelchair=true
+	CTAStation [name=Montrose, location=elevated, latitude 41.96165, longitude -87.675162, opened=true, wheelchair=true
+	CTAStation [name=Irving Park, location=elevated, latitude 41.954387, longitude -87.674956, opened=true, wheelchair=true
+	CTAStation [name=Addison, location=elevated, latitude 41.946972, longitude -87.674728, opened=true, wheelchair=true
+	CTAStation [name=Paulina, location=elevated, latitude 41.943722, longitude -87.670858, opened=true, wheelchair=true
+	CTAStation [name=Southport, location=elevated, latitude 41.943822, longitude -87.663383, opened=true, wheelchair=true
+	CTAStation [name=Wellington, location=elevated, latitude 41.936203, longitude -87.653239, opened=true, wheelchair=true
+	CTAStation [name=Diversey, location=elevated, latitude 41.932748, longitude -87.653155, opened=true, wheelchair=true
+	CTAStation [name=Armitage, location=elevated, latitude 41.918234, longitude -87.652659, opened=true, wheelchair=true
+	CTAStation [name=Sedgwick, location=elevated, latitude 41.910397, longitude -87.638631, opened=true, wheelchair=true
+	CTAStation [name=Chicago, location=elevated, latitude 41.896467, longitude -87.635833, opened=true, wheelchair=true
+	CTAStation [name=Merchandise Mart, location=elevated, latitude 41.888675, longitude -87.633966, opened=true, wheelchair=true
+	CTAStation [name=Washington/Wells, location=elevated, latitude 41.882541, longitude -87.633824, opened=true, wheelchair=true
+	CTAStation [name=Quincy, location=elevated, latitude 41.878752, longitude -87.633703, opened=true, wheelchair=false
+	CTAStation [name=LaSalle/Van Buren, location=elevated, latitude 41.8768, longitude -87.631739, opened=true, wheelchair=false
+	CTAStation [name=Harold Washington Library, location=elevated, latitude 41.876862, longitude -87.628196, opened=true, wheelchair=true
+	CTAStation [name=Linden, location=at-grade, latitude 42.07379, longitude -87.69056, opened=true, wheelchair=true
+	CTAStation [name=Central, location=elevated, latitude 42.06395, longitude -87.685742, opened=true, wheelchair=false
+	CTAStation [name=Noyes, location=elevated, latitude 42.058088, longitude -87.683196, opened=true, wheelchair=false
+	CTAStation [name=Foster, location=elevated, latitude 42.054136, longitude -87.683604, opened=true, wheelchair=false
+	CTAStation [name=Davis, location=elevated, latitude 42.04771, longitude -87.68363, opened=true, wheelchair=true
+	CTAStation [name=Dempster, location=elevated, latitude 42.04187, longitude -87.68237, opened=true, wheelchair=false
+	CTAStation [name=Main, location=elevated, latitude 42.03333, longitude -87.67925, opened=true, wheelchair=false
+	CTAStation [name=South Boulevard, location=elevated, latitude 42.02792, longitude -87.67919, opened=true, wheelchair=false
+	CTAStation [name=54th/Cermak, location=at-grade, latitude 41.851663, longitude -87.759598, opened=true, wheelchair=true
+	CTAStation [name=Cicero, location=at-grade, latitude 41.85182, longitude -87.745336, opened=true, wheelchair=true
+	CTAStation [name=Kostner, location=at-grade, latitude 41.853751, longitude -87.733258, opened=true, wheelchair=true
+	CTAStation [name=Pulaski, location=elevated, latitude 41.853732, longitude -87.724311, opened=true, wheelchair=true
+	CTAStation [name=Central Park, location=elevated, latitude 41.853839, longitude -87.714842, opened=true, wheelchair=true
+	CTAStation [name=Kedzie, location=elevated, latitude 41.853964, longitude -87.705408, opened=true, wheelchair=true
+	CTAStation [name=California, location=elevated, latitude 41.854109, longitude -87.694774, opened=true, wheelchair=true
+	CTAStation [name=Western, location=elevated, latitude 41.854225, longitude -87.685129, opened=true, wheelchair=true
+	CTAStation [name=Damen, location=elevated, latitude 41.854517, longitude -87.675975, opened=true, wheelchair=true
+	CTAStation [name=18th, location=elevated, latitude 41.857955, longitude -87.669178, opened=true, wheelchair=true
+	CTAStation [name=Polk, location=elevated, latitude 41.871551, longitude -87.66953, opened=true, wheelchair=true
+	CTAStation [name=Midway, location=at-grade, latitude 41.78661, longitude -87.737875, opened=true, wheelchair=true
+	CTAStation [name=Pulaski, location=elevated, latitude 41.799756, longitude -87.724493, opened=true, wheelchair=true
+	CTAStation [name=Kedzie, location=embankment, latitude 41.804236, longitude -87.704406, opened=true, wheelchair=true
+	CTAStation [name=Western, location=embankment, latitude 41.804546, longitude -87.684019, opened=true, wheelchair=true
+	CTAStation [name=35th/Archer, location=embankment, latitude 41.829353, longitude -87.680622, opened=true, wheelchair=true
+	CTAStation [name=Ashland, location=elevated, latitude 41.839234, longitude -87.665317, opened=true, wheelchair=true
+	CTAStation [name=Halsted, location=elevated, latitude 41.84678, longitude -87.648088, opened=true, wheelchair=true
+	CTAStation [name=Dempster-Skokie, location=at-grade, latitude 42.040278, longitude -87.752222, opened=true, wheelchair=true
+	CTAStation [name=Oakton-Skokie, location=street level, latitude 42.0273, longitude -87.7476, opened=true, wheelchair=true
+]
